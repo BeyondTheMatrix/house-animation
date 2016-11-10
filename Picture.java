@@ -6,7 +6,7 @@
  *
  * This class was written as an early example for teaching Java with BlueJ.
  * 
- * @author  Michael Kšlling and David J. Barnes (and Jacob Martin)
+ * @author  Michael KÅ¡lling and David J. Barnes (and Jacob Martin)
  * @version 2016.02.29
  */
 public class Picture
@@ -66,7 +66,7 @@ public class Picture
     {
         if(speed != 1)
         {
-          sun.slowMoveVertical((250/speed), speed); 
+          sun.slowMoveVertical((270/speed), speed); 
         }
         else
         {
@@ -78,7 +78,7 @@ public class Picture
     {
         if(speed != 1)
         {
-            sun.slowMoveVertical((-250/speed), speed);
+            sun.slowMoveVertical((-270/speed), speed);
         }
         else
         {
