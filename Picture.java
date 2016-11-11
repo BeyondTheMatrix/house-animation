@@ -62,6 +62,7 @@ public class Picture
         }
     }
     
+   \\Moves the sun down at a imputed speed
     public void sunset(int speed)
     {
         if(speed != 1)
@@ -74,6 +75,7 @@ public class Picture
        }
     }
     
+    \\Moves the sun up at a imputed speed
     public void sunrise(int speed)
     {
         if(speed != 1)
@@ -86,6 +88,7 @@ public class Picture
        }
     }
     
+    \\Changes the color of the sun at a variable interval
     public void rainbow(int speed)
     {
         int quick;
