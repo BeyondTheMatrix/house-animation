@@ -62,7 +62,7 @@ public class Picture
         }
     }
     
-   \\Moves the sun down at a imputed speed
+   //Moves the sun down at a imputed speed
     public void sunset(int speed)
     {
         if(speed != 1)
@@ -75,7 +75,7 @@ public class Picture
        }
     }
     
-    \\Moves the sun up at a imputed speed
+    //Moves the sun up at a imputed speed
     public void sunrise(int speed)
     {
         if(speed != 1)
