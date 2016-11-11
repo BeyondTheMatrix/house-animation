@@ -88,7 +88,7 @@ public class Picture
        }
     }
     
-    \\Changes the color of the sun at a variable interval
+    //Changes the color of the sun at a variable interval
     public void rainbow(int speed)
     {
         int quick;
